@@ -79,9 +79,6 @@ NTI-Automation-Task/
 └── README.md              # Project documentation
 ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## License
 
